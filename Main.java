@@ -29,6 +29,7 @@ public class Main
         
 
         System.out.println(discountedPrice);
+        System.out.println(cost);
         //System.out.println(discountedPrice);
 
         input.close();
